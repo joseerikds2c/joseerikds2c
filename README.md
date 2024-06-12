@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá sou o Erik, estudo em uma escola estadual 👋 
 
 <!--
 **joseerikds2c/joseerikds2c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
